@@ -1,0 +1,1 @@
+The file is located at: [LS-configure-broadcast-event](https://nizza-cdn-assets.s3.us-east-1.amazonaws.com/docs/en/LS-configure-broadcast-event.7z)
